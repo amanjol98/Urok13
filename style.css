@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    text-shadow: 20px;
+    color: blue;
+}
+
+h2 {
+    text-transform: capitalize;
+    text-decoration: double;
+    color: aqua;
+    text-align: center;
+    font-style: normal;
+}
+
+p {
+    font-size: 18px;
+}
+
+#box1 {
+    background-color: aquamarine;
+    width: 300px;
+    height: 200px;
+}
+
+#box2 {
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 150px;
+    font-size: 1.5em;
+}
+
+#box3 {
+    background-color: blueviolet;
+    width: 50vw;
+    height: 10vh;
+}
+
+#box4 {
+    background-color: yellowgreen;
+    width: 250px;
+    height: 150px;
+}
+
+#box5 {
+    background-color: skyblue;
+    width: 50%;
+    height: 50%;
+}
+
+#box6 {
+    background-color: #5bb048; /* #5b4 - в сокращенном виде */
+    color: #21201e; /* #221 - в сокращенном виде */
+}
+
+#box7 {
+    color: rgb(0, 38, 255);
+    background-color: rgb(169, 209, 199);
+}
+
+#box8 {
+    color: rgba(245, 213, 7, 0.8);
+    background-color: rgba(25, 15, 217, 0.3);
+}
